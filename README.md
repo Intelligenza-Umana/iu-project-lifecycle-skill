@@ -1,4 +1,4 @@
-# Project Lifecycle Skill — v0.1.0
+# Project Lifecycle Skill — v0.2.0
 Skill riutilizzabile per governare progetti con agenti AI. Il metodo vive qui; il contesto vive nella repository di destinazione.
 
 ## Utilizzo
@@ -6,3 +6,5 @@ Leggere [SKILL.md](SKILL.md), indicare la repository e scegliere bootstrap, resu
 
 ## Stato
 Prototipo documentale; installazione nativa e test reali ancora da verificare. Nessuna licenza pubblica concessa.
+
+Protocollo obbligatorio: [Context Integrity](references/context-integrity.md).

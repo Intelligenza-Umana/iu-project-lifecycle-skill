@@ -1,6 +1,6 @@
 # Handoff — 2026-11-25
 ## Stato
-v0.1.0: prima implementazione documentale della skill, senza CLI o MCP.
+v0.2.0: protocollo di integrità aggiunto alla implementazione documentale della skill, senza CLI o MCP.
 ## Obiettivo
 Standardizzare bootstrap, istruzioni agenti, memoria di sessione e audit in progetti diversi.
 ## Prossimi passi
@@ -9,3 +9,5 @@ Standardizzare bootstrap, istruzioni agenti, memoria di sessione e audit in prog
 3. Valutare adozione su Intelligenza Umana previa autorizzazione.
 ## Limiti
 Test di integrazione non eseguiti. Licenza da decidere. Nessun progetto esterno modificato.
+
+Prossimo test: verificare aggiornamento delle fonti impattate e gestione contesto mancante.

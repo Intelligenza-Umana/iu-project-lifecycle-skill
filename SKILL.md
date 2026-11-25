@@ -15,3 +15,6 @@ Identifica repository, branch, obiettivo e permessi. Leggi istruzioni locali, RE
 - decision: registra contesto, alternative, motivazione, stato e conseguenze; non trasformare proposte in decisioni approvate.
 ## Chiusura
 Verifica diff, collegamenti e test pertinenti; aggiorna HANDOFF per sessioni significative, segnala limiti e lavoro non verificato. Non dichiarare successo senza evidenza.
+
+## Integrità del contesto (obbligatoria)
+Applica [Context Integrity Protocol](references/context-integrity.md) prima e dopo ogni modifica. Usa i template DOCUMENTATION_MAP e DEFINITION_OF_DONE per rendere verificabile la chiusura.

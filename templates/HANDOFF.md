@@ -6,3 +6,6 @@
 ## Decisioni
 ## Blocchi e rischi
 ## Prossimo passo
+
+## Integrità documentale
+Documenti aggiornati; verificati invariati; discrepanze; verifiche mancanti.
