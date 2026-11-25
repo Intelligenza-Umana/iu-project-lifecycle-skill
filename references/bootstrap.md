@@ -1,0 +1,2 @@
+# Bootstrap
+Inventaria file, convenzioni, Git e documentazione. Classifica presenti, mancanti, obsoleti e conflittuali. Proponi un diff minimo; chiedi approvazione per struttura nuova. Crea solo documenti utili; usa placeholder espliciti per dati ignoti. Verifica che una seconda esecuzione non generi duplicati.

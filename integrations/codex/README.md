@@ -1,0 +1,2 @@
+# Codex
+Usa SKILL.md con i relativi references e templates come pacchetto. In alternativa chiedi esplicitamente a Codex di leggere questi file. AGENTS.md nella repository target contiene le istruzioni persistenti. Per Codex Cloud rendi i file accessibili nell'ambiente autorizzato. Percorsi di installazione e discovery nativa da verificare sulla versione in uso; nessuna installazione automatica inclusa.
