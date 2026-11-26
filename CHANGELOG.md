@@ -1,4 +1,6 @@
 # Changelog
+## Unreleased
+- Added MIT license; installation and integration testing remain outstanding.
 ## 0.2.0 — 2026-11-25
 - Context Integrity Protocol, mappa documentale, Definition of Done e criteri di verifica.
 

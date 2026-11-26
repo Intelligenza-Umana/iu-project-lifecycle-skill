@@ -8,6 +8,6 @@ Standardizzare bootstrap, istruzioni agenti, memoria di sessione e audit in prog
 2. Provare bootstrap e seconda esecuzione su repository di test.
 3. Valutare adozione su Intelligenza Umana previa autorizzazione.
 ## Limiti
-Test di integrazione non eseguiti. Licenza da decidere. Nessun progetto esterno modificato.
+Test di integrazione non eseguiti. Licenza MIT aggiunta il 26 novembre 2026. Nessun progetto esterno modificato.
 
 Prossimo test: verificare aggiornamento delle fonti impattate e gestione contesto mancante.
