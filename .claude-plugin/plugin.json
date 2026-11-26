@@ -1,6 +1,6 @@
 {
   "name": "iu-project-lifecycle",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Project context, lifecycle and handoff workflow for coding agents.",
   "author": { "name": "Intelligenza Umana", "url": "https://github.com/fabiozagaria/intelligenza-umana" }
 }

@@ -21,6 +21,14 @@ class InstallTests(unittest.TestCase):
                 self.assertTrue((target / 'templates/HANDOFF.md').is_file())
                 self.assertEqual(installer.install(host, tmp), (target, False))
 
+    def test_bundled_skills_match_fresh_installations(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            for host in ('codex', 'claude'):
+                with self.subTest(host=host):
+                    installed, _ = installer.install(host, tmp)
+                    bundled = ROOT / installed.relative_to(tmp)
+                    self.assertTrue(installer.same_contents(installed, bundled), bundled)
+
     def test_preserves_modified_installation_and_project_files(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

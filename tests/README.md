@@ -8,7 +8,7 @@ Run `python3 -m unittest discover -s tests -v` for installer regression tests. T
 3. Migrazione con AGENTS esistente: regole preservate.
 4. Resume con handoff obsoleto: discrepanza segnalata.
 5. Audit: nessuna modifica senza mandato.
-6. Handoff: test non eseguiti dichiarati, prossimo passo concreto.
+6. Handoff: su una fixture con un test superato, uno fallito e uno saltato, verificare che il resoconto riporti comando, ambito ed esiti osservati. Ripetere con zero test raccolti e controllare che il lavoro resti da verificare.
 7. Segreti e modifiche locali: nessuna esposizione o perdita.
 
 8. Modifica con impatto documentale: tutte le fonti pertinenti aggiornate o motivate come invariate.

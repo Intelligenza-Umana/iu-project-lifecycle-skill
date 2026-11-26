@@ -1,4 +1,4 @@
-# Project Lifecycle Skill — v0.3.0
+# Project Lifecycle Skill — v0.3.1
 
 **An [Intelligenza Umana](https://github.com/fabiozagaria/intelligenza-umana) project.** [Official project registry](https://github.com/fabiozagaria/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
 

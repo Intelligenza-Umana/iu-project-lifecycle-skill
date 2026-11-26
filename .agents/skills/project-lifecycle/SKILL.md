@@ -14,7 +14,7 @@ Identifica repository, branch, obiettivo e permessi. Leggi istruzioni locali, RE
 - plan: separa obiettivi, dipendenze, priorità e criteri di accettazione; non inventare scadenze.
 - decision: registra contesto, alternative, motivazione, stato e conseguenze; non trasformare proposte in decisioni approvate.
 ## Chiusura
-Verifica diff, collegamenti e test pertinenti; aggiorna HANDOFF per sessioni significative, segnala limiti e lavoro non verificato. Non dichiarare successo senza evidenza.
+Verifica diff e collegamenti. Esegui i test pertinenti secondo il [protocollo di verifica](references/session-end.md#verifica-dei-test) e riporta comando, ambito ed esito osservato; aggiorna HANDOFF per sessioni significative, segnala limiti e lavoro non verificato. Non dichiarare successo senza evidenza.
 
 ## Integrità del contesto (obbligatoria)
 Applica [Context Integrity Protocol](references/context-integrity.md) prima e dopo ogni modifica. Usa i template DOCUMENTATION_MAP e DEFINITION_OF_DONE per rendere verificabile la chiusura.
