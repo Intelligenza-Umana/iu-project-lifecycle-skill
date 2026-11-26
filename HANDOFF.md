@@ -1,15 +1,12 @@
-# Handoff — 2026-11-25
-## Stato
-v0.2.0: protocollo di integrità aggiunto alla implementazione documentale della skill, senza CLI o MCP.
-## Obiettivo
-Standardizzare bootstrap, istruzioni agenti, memoria di sessione e audit in progetti diversi.
-## Prossimi passi
-1. Verificare installazione nativa Codex e Claude Code.
-2. Provare bootstrap e seconda esecuzione su repository di test.
-3. Valutare adozione su Intelligenza Umana previa autorizzazione.
-## Limiti
-Test di integrazione non eseguiti. Licenza MIT aggiunta il 26 novembre 2026. Nessun progetto esterno modificato.
+# Handoff — 2026-11-26
 
-Prossimo test: verificare aggiornamento delle fonti impattate e gestione contesto mancante.
+## Status
+v0.3.0 adds a native skill installer for Codex and Claude Code, a Claude plugin manifest and installer tests. Existing method, references and templates are retained. The installer preserves different existing installations and is idempotent for identical content.
 
-Attribution: README links to the Intelligenza Umana foundation and official project registry. This label is not a cryptographic signature.
+## Verification
+Automated installer tests cover both project paths, repeat installation, preservation of modified files and symlink destinations. See tests/README.md for agent workflow acceptance scenarios.
+
+## Open work
+Live discovery and workflow execution with authenticated Codex and Claude Code remain unverified. Adopt the skill in target projects only after the user identifies them. Keep each target's existing conventions and instructions.
+
+Attribution: Intelligenza Umana. This is a project identity, not a cryptographic signature.
