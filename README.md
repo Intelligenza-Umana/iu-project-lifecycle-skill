@@ -6,6 +6,16 @@ A reusable skill for project context, decisions, documentation, audits and sessi
 
 ## Install
 
+**Claude Code plugin** (2.1.275 or later), inside a session:
+
+```text
+/plugin install iu-project-lifecycle --marketplace Intelligenza-Umana/iu-project-lifecycle-skill
+```
+
+Or from a terminal: `claude plugin marketplace add Intelligenza-Umana/iu-project-lifecycle-skill`, then `claude plugin install iu-project-lifecycle@iu-project-lifecycle`. The skill is then `/iu-project-lifecycle:project-lifecycle`.
+
+**Skill installer** (Codex, or Claude Code without the plugin system):
+
 Clone this repository, then run the installer from its root. Python 3.9 or newer is required for installation. The skill itself has no runtime dependency.
 
 ```sh
