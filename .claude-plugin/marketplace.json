@@ -1,0 +1,12 @@
+{
+  "name": "iu-project-lifecycle",
+  "owner": { "name": "Intelligenza Umana" },
+  "plugins": [
+    {
+      "name": "iu-project-lifecycle",
+      "source": "./",
+      "description": "Project context, lifecycle and handoff workflow for coding agents."
+    }
+  ],
+  "metadata": { "description": "Claude Code plugins by Intelligenza Umana." }
+}

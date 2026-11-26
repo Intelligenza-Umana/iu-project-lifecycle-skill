@@ -1,4 +1,7 @@
 # Changelog
+## Unreleased
+- Publication readiness: added a marketplace manifest and plugin icon, documented one-step plugin installation, and validated the manifests with `claude plugin validate` (Claude Code 2.1.332). The repository-root `CLAUDE.md` is development context and is not shipped as plugin context (validator warning, expected).
+
 ## 0.3.1 — 2026-11-26
 - Require current test evidence in handoffs and check that both bundled skills match a fresh installation.
 
