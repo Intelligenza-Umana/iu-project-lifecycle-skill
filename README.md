@@ -1,4 +1,6 @@
 # Project Lifecycle Skill — v0.2.0
+
+**An [Intelligenza Umana](https://github.com/fabiozagaria/intelligenza-umana) project.** See the [official project registry](https://github.com/fabiozagaria/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
 Skill riutilizzabile per governare progetti con agenti AI. Il metodo vive qui; il contesto vive nella repository di destinazione.
 
 ## Utilizzo

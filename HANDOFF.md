@@ -11,3 +11,5 @@ Standardizzare bootstrap, istruzioni agenti, memoria di sessione e audit in prog
 Test di integrazione non eseguiti. Licenza MIT aggiunta il 26 novembre 2026. Nessun progetto esterno modificato.
 
 Prossimo test: verificare aggiornamento delle fonti impattate e gestione contesto mancante.
+
+Attribution: README links to the Intelligenza Umana foundation and official project registry. This label is not a cryptographic signature.
