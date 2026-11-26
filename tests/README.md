@@ -1,4 +1,8 @@
-# Criteri di accettazione (manuali, non eseguiti)
+# Test
+
+Run `python3 -m unittest discover -s tests -v` for installer regression tests. The following agent workflow scenarios require a live host and have not been verified by the automated installer tests.
+
+## Criteri di accettazione manuali
 1. Bootstrap su repo vuota: documenti minimi e link validi.
 2. Bootstrap ripetuto: nessun duplicato o sovrascrittura.
 3. Migrazione con AGENTS esistente: regole preservate.
