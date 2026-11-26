@@ -1,4 +1,8 @@
 # Changelog
+## 0.3.0 — 2026-11-26
+- Added native Codex and Claude Code skill installer, Claude plugin manifest and automated installer tests.
+- Documented install, update and usage. Agent workflow acceptance remains subject to live host verification.
+
 ## Unreleased
 - Added Intelligenza Umana project attribution and official registry link.
 - Added MIT license; installation and integration testing remain outstanding.
