@@ -1,2 +1,5 @@
 # Claude Code
-Usa SKILL.md e i riferimenti come pacchetto oppure chiedi esplicitamente di leggerli. CLAUDE.md del progetto può importare AGENTS.md con @AGENTS.md. Verifica discovery e import sulla versione installata. Nessuna installazione automatica inclusa.
+
+Run `python3 scripts/install.py --host claude --project /path/to/project` from the skill repository, or omit `--project` for a user-wide installation. Restart Claude Code and invoke `/project-lifecycle` or ask Claude to use it.
+
+Alternatively load the repository directly with `claude --plugin-dir /path/to/iu-project-lifecycle-skill` and invoke `/iu-project-lifecycle:project-lifecycle`. The plugin manifest identifies the root skill. The skill includes references and templates, and the installer preserves existing files. It does not change the target project's `CLAUDE.md`.
