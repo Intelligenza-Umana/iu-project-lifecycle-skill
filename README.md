@@ -1,6 +1,6 @@
 # Project Lifecycle Skill — v0.3.1
 
-**An [Intelligenza Umana](https://github.com/fabiozagaria/intelligenza-umana) project.** [Official project registry](https://github.com/fabiozagaria/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
+**An [Intelligenza Umana](https://github.com/Intelligenza-Umana/intelligenza-umana) project.** [Official project registry](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
 
 A reusable skill for project context, decisions, documentation, audits and session handoffs. The method lives here and project-specific context stays in the target repository. Operations are instructions for an agent rather than deterministic CLI commands.
 
