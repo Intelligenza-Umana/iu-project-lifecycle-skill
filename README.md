@@ -6,6 +6,8 @@ A reusable skill for project context, decisions, documentation, audits and sessi
 
 ## Install
 
+If you already use the [Intelligenza Umana marketplace](https://github.com/Intelligenza-Umana/iu-marketplace#add-the-marketplace), run `claude plugin install iu-project-lifecycle@intelligenza-umana` to install this plugin from the shared catalog.
+
 **Claude Code plugin** (2.1.275 or later), inside a session:
 
 ```text
